@@ -1,7 +1,6 @@
 package org.coffeetrain.daggerkotlintestfail
 
 import org.assertj.core.api.Assertions.assertThat
-import org.coffeetrain.daggerkotlintestfail.MainActivity.Taco
 import org.junit.Before
 import org.junit.Test
 import org.junit.runner.RunWith
